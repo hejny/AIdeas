@@ -1,2 +1,2 @@
-# AIdeas
+# 🎨 AIdeas
 Ideas for AI generators 
