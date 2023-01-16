@@ -1,4 +1,476 @@
 # Note: Each part is new input for imagine command
 #       And every first line will be searched during the harvesting phase
+# @batch-project-editor ignore
 
-Ideas for AI generators
+# Artists
+
+# Pablo Picasso
+# Vincent van Gogh
+# Leonardo da Vinci
+# Johannes Vermeer
+# Rembrandt
+# Gustav Klimt
+# Andy Warhol
+# Michelangelo
+# Henri Matisse
+# Jackson Pollock
+# Salvador Dalí
+# Edvard Munch
+# Albrecht Dürer
+# Paul Cézanne
+# Raphael
+# Eugène Delacroix
+# Caravaggio
+# Sandro Botticelli
+# Paul Gauguin
+# Georgia O'Keeffe
+# Paul Klee
+# Edward Hopper
+# René Magritte
+# Peter Paul Rubens
+# Wassily Kandinsky
+# Mark Rothko
+# Piet Mondrian
+# Édouard Manet
+# Edgar Degas
+# Amedeo Modigliani
+# Titian
+# Jean-Michel Basquiat
+# Willem de Kooning
+# Egon Schiele
+# Georges Seurat
+# Jean-Antoine Watteau
+# Francisco Goya
+# J. M. W. Turner
+# Pierre-Auguste Renoir
+# Mary Cassatt
+# Marc Chagall
+# Caspar David Friedrich
+# Joan Miró
+# David Hockney
+# Diego Velázquez
+# Yayoi Kusama
+# Jasper Johns
+# Hieronymus Bosch
+# Keith Haring
+# El Greco
+# Francis Bacon
+
+# Painting of cube by %
+
+Painting of cube by Pablo Picasso
+
+Painting of cube by Vincent van Gogh
+
+Painting of cube by Leonardo da Vinci
+
+Painting of cube by Johannes Vermeer
+
+Painting of cube by Rembrandt
+
+Painting of cube by Gustav Klimt
+
+Painting of cube by Andy Warhol
+
+Painting of cube by Michelangelo
+
+Painting of cube by Henri Matisse
+
+Painting of cube by Jackson Pollock
+
+Painting of cube by Salvador Dalí
+
+Painting of cube by Edvard Munch
+
+Painting of cube by Albrecht Dürer
+
+Painting of cube by Paul Cézanne
+
+Painting of cube by Raphael
+
+Painting of cube by Eugène Delacroix
+
+Painting of cube by Caravaggio
+
+Painting of cube by Sandro Botticelli
+
+Painting of cube by Paul Gauguin
+
+Painting of cube by Georgia O'Keeffe
+
+Painting of cube by Paul Klee
+
+Painting of cube by Edward Hopper
+
+Painting of cube by René Magritte
+
+Painting of cube by Peter Paul Rubens
+
+Painting of cube by Wassily Kandinsky
+
+Painting of cube by Mark Rothko
+
+Painting of cube by Piet Mondrian
+
+Painting of cube by Édouard Manet
+
+Painting of cube by Edgar Degas
+
+Painting of cube by Amedeo Modigliani
+
+Painting of cube by Titian
+
+Painting of cube by Jean-Michel Basquiat
+
+Painting of cube by Willem de Kooning
+
+Painting of cube by Egon Schiele
+
+Painting of cube by Georges Seurat
+
+Painting of cube by Jean-Antoine Watteau
+
+Painting of cube by Francisco Goya
+
+Painting of cube by J. M. W. Turner
+
+Painting of cube by Pierre-Auguste Renoir
+
+Painting of cube by Mary Cassatt
+
+Painting of cube by Marc Chagall
+
+Painting of cube by Caspar David Friedrich
+
+Painting of cube by Joan Miró
+
+Painting of cube by David Hockney
+
+Painting of cube by Diego Velázquez
+
+Painting of cube by Yayoi Kusama
+
+Painting of cube by Jasper Johns
+
+Painting of cube by Hieronymus Bosch
+
+Painting of cube by Keith Haring
+
+Painting of cube by El Greco
+
+Painting of cube by Francis Bacon
+
+
+# Cube by %
+
+Cube by Pablo Picasso
+
+Cube by Vincent van Gogh
+
+Cube by Leonardo da Vinci
+
+Cube by Johannes Vermeer
+
+Cube by Rembrandt
+
+Cube by Gustav Klimt
+
+Cube by Andy Warhol
+
+Cube by Michelangelo
+
+Cube by Henri Matisse
+
+Cube by Jackson Pollock
+
+Cube by Salvador Dalí
+
+Cube by Edvard Munch
+
+Cube by Albrecht Dürer
+
+Cube by Paul Cézanne
+
+Cube by Raphael
+
+Cube by Eugène Delacroix
+
+Cube by Caravaggio
+
+Cube by Sandro Botticelli
+
+Cube by Paul Gauguin
+
+Cube by Georgia O'Keeffe
+
+Cube by Paul Klee
+
+Cube by Edward Hopper
+
+Cube by René Magritte
+
+Cube by Peter Paul Rubens
+
+Cube by Wassily Kandinsky
+
+Cube by Mark Rothko
+
+Cube by Piet Mondrian
+
+Cube by Édouard Manet
+
+Cube by Edgar Degas
+
+Cube by Amedeo Modigliani
+
+Cube by Titian
+
+Cube by Jean-Michel Basquiat
+
+Cube by Willem de Kooning
+
+Cube by Egon Schiele
+
+Cube by Georges Seurat
+
+Cube by Jean-Antoine Watteau
+
+Cube by Francisco Goya
+
+Cube by J. M. W. Turner
+
+Cube by Pierre-Auguste Renoir
+
+Cube by Mary Cassatt
+
+Cube by Marc Chagall
+
+Cube by Caspar David Friedrich
+
+Cube by Joan Miró
+
+Cube by David Hockney
+
+Cube by Diego Velázquez
+
+Cube by Yayoi Kusama
+
+Cube by Jasper Johns
+
+Cube by Hieronymus Bosch
+
+Cube by Keith Haring
+
+Cube by El Greco
+
+Cube by Francis Bacon
+
+
+# Cube from %
+
+Cube from Pablo Picasso
+
+Cube from Vincent van Gogh
+
+Cube from Leonardo da Vinci
+
+Cube from Johannes Vermeer
+
+Cube from Rembrandt
+
+Cube from Gustav Klimt
+
+Cube from Andy Warhol
+
+Cube from Michelangelo
+
+Cube from Henri Matisse
+
+Cube from Jackson Pollock
+
+Cube from Salvador Dalí
+
+Cube from Edvard Munch
+
+Cube from Albrecht Dürer
+
+Cube from Paul Cézanne
+
+Cube from Raphael
+
+Cube from Eugène Delacroix
+
+Cube from Caravaggio
+
+Cube from Sandro Botticelli
+
+Cube from Paul Gauguin
+
+Cube from Georgia O'Keeffe
+
+Cube from Paul Klee
+
+Cube from Edward Hopper
+
+Cube from René Magritte
+
+Cube from Peter Paul Rubens
+
+Cube from Wassily Kandinsky
+
+Cube from Mark Rothko
+
+Cube from Piet Mondrian
+
+Cube from Édouard Manet
+
+Cube from Edgar Degas
+
+Cube from Amedeo Modigliani
+
+Cube from Titian
+
+Cube from Jean-Michel Basquiat
+
+Cube from Willem de Kooning
+
+Cube from Egon Schiele
+
+Cube from Georges Seurat
+
+Cube from Jean-Antoine Watteau
+
+Cube from Francisco Goya
+
+Cube from J. M. W. Turner
+
+Cube from Pierre-Auguste Renoir
+
+Cube from Mary Cassatt
+
+Cube from Marc Chagall
+
+Cube from Caspar David Friedrich
+
+Cube from Joan Miró
+
+Cube from David Hockney
+
+Cube from Diego Velázquez
+
+Cube from Yayoi Kusama
+
+Cube from Jasper Johns
+
+Cube from Hieronymus Bosch
+
+Cube from Keith Haring
+
+Cube from El Greco
+
+Cube from Francis Bacon
+
+
+# Cube %
+
+Cube Pablo Picasso
+
+Cube Vincent van Gogh
+
+Cube Leonardo da Vinci
+
+Cube Johannes Vermeer
+
+Cube Rembrandt
+
+Cube Gustav Klimt
+
+Cube Andy Warhol
+
+Cube Michelangelo
+
+Cube Henri Matisse
+
+Cube Jackson Pollock
+
+Cube Salvador Dalí
+
+Cube Edvard Munch
+
+Cube Albrecht Dürer
+
+Cube Paul Cézanne
+
+Cube Raphael
+
+Cube Eugène Delacroix
+
+Cube Caravaggio
+
+Cube Sandro Botticelli
+
+Cube Paul Gauguin
+
+Cube Georgia O'Keeffe
+
+Cube Paul Klee
+
+Cube Edward Hopper
+
+Cube René Magritte
+
+Cube Peter Paul Rubens
+
+Cube Wassily Kandinsky
+
+Cube Mark Rothko
+
+Cube Piet Mondrian
+
+Cube Édouard Manet
+
+Cube Edgar Degas
+
+Cube Amedeo Modigliani
+
+Cube Titian
+
+Cube Jean-Michel Basquiat
+
+Cube Willem de Kooning
+
+Cube Egon Schiele
+
+Cube Georges Seurat
+
+Cube Jean-Antoine Watteau
+
+Cube Francisco Goya
+
+Cube J. M. W. Turner
+
+Cube Pierre-Auguste Renoir
+
+Cube Mary Cassatt
+
+Cube Marc Chagall
+
+Cube Caspar David Friedrich
+
+Cube Joan Miró
+
+Cube David Hockney
+
+Cube Diego Velázquez
+
+Cube Yayoi Kusama
+
+Cube Jasper Johns
+
+Cube Hieronymus Bosch
+
+Cube Keith Haring
+
+Cube El Greco
+
+Cube Francis Bacon
