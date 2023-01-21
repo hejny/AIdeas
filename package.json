@@ -1,18 +1,1 @@
-{
-    "name": "aideas",
-    "version": "1.0.0",
-    "description": "Ideas for AI generators",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hejny/AIdeas"
-    },
-    "author": "",
-    "license": "SEE LICENSE IN LICENSE",
-    "bugs": {
-        "url": "https://github.com/hejny/AIdeas/issues"
-    },
-    "homepage": "https://github.com/hejny/AIdeas#readme"
-}
+undefined
