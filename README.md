@@ -7,6 +7,7 @@
 [![License of 🎨 AIdeas](https://img.shields.io/github/license/hejny/AIdeas.svg?style=flat)](https://github.com/hejny/AIdeas/blob/main/LICENSE)
 [![Known Vulnerabilities](https://snyk.io/test/github/hejny/AIdeas/badge.svg)](https://snyk.io/test/github/hejny/AIdeas)
 [![Issues](https://img.shields.io/github/issues/hejny/AIdeas.svg?style=flat)](https://github.com/hejny/AIdeas/issues)
+<!--[![Socket](https://socket.dev/api/badge/npm/package/aideas)](https://socket.dev/npm/package/aideas)-->
 
 <!--/Badges-->
 Ideas for AI generators 
